@@ -43,13 +43,6 @@ sections:
     component: spotlights.html
     section_id: two
     spotlights:
-      - home_img_path: images/pic01.jpg
-        text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        title: |-
-          Magna primis lobortis
-          sed ullamcorper
       - home_img_path: images/pic02.jpg
         text: >-
           Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
