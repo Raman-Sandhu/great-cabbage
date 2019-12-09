@@ -1,5 +1,8 @@
 ---
 title: FINANCE
+subtitle: >-
+  To start my business, i will require $5,00,000 because i will have to manage
+  varioue expenses.
 background_style: style5
 menu:
   main:
@@ -7,4 +10,4 @@ menu:
     weight: 6
 layout: page
 ---
-
+This estimated money will be used for different purposes such as Infrastructure, Android developer, IOS developer, Website, Employees salary, security and other expenses.
