@@ -22,9 +22,6 @@ sections:
   - background_style: style1
     component: icons.html
     feature_icons:
-      - icon: fa-diamond
-        style: style1
-        title: Lorem
       - icon: fa-heart-o
         style: style2
         title: Ipsum
