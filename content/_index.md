@@ -75,26 +75,11 @@ sections:
       - icon: fa-paper-plane-o
         text: I will provide best offers and perks on special occasion.
         title: Offers and Rewards
-      - icon: fa-laptop
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Ac Augue Eget
-      - icon: fa-code
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Mus Scelerisque
-      - icon: fa-headphones
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Mauris Imperdiet
       - icon: fa-heart-o
         text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Aenean Primis
+          I will render better security with the help of security equipments
+          such as cameras and alarms.
+        title: Security Control
       - icon: fa-flag-o
         text: >-
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
