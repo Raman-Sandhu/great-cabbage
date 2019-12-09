@@ -50,11 +50,10 @@ sections:
         title: Reliable Application
       - home_img_path: images/pic03.jpg
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        title: |-
-          Augue eleifend aliquet
-          sed condimentum
+          User interface is an important part of every mobile application. It
+          includes mobile application design, visual design, graphic design, and
+          branding.
+        title: Appealing
     title: Spotlights Section
     type: spotlights
   - background_style: style3
