@@ -73,10 +73,8 @@ sections:
     component: features.html
     features:
       - icon: fa-paper-plane-o
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Arcu accumsan
+        text: I will provide best offers and perks on special occasion.
+        title: Offers and Rewards
       - icon: fa-laptop
         text: >-
           Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
