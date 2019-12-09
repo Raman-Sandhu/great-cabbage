@@ -2,7 +2,7 @@
 title: FINANCE
 subtitle: >-
   _To start my business, i will require $5,00,000 because i will have to manage
-  varioue expenses._
+  various expenses._
 background_style: style5
 menu:
   main:
