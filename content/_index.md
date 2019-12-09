@@ -1,5 +1,5 @@
 ---
-title: Home
+title: NEXT APP
 banner:
   actions:
     - is_primary: true
