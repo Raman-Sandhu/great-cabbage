@@ -12,9 +12,11 @@ banner:
     label: Learn More
     url: '#one'
   subtitle: |-
-    Blandit duis accumsan  
-    arcu sagittis viverra  
-    blandit at Interdum.
+    Powerful Work Execution
+
+    And
+
+    User Friendly
   title: NEXT APP
 sections:
   - background_style: style1
