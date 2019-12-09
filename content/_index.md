@@ -12,11 +12,11 @@ banner:
     label: Learn More
     url: '#one'
   subtitle: |-
-    Powerful Work Execution
+    **_Powerful Work Execution_**
 
-    And
+    **_And_**
 
-    User Friendly
+    **_User Friendly_**
   title: NEXT APP
 sections:
   - background_style: style1
