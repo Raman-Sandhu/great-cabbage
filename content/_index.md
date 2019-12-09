@@ -73,23 +73,6 @@ sections:
       product development.
     title: Product Development
     type: features
-  - actions:
-      - is_primary: true
-        is_scrolly: false
-        label: Activate
-        url: /generic
-      - is_primary: false
-        is_scrolly: false
-        label: Learn More
-        url: /generic
-    background_style: style4
-    component: cta.html
-    section_id: cta
-    text: >-
-      Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet
-      eleifend fringilla.
-    title: Arcue ut vel commodo
-    type: cta
 menu:
   main:
     name: Home
