@@ -1,6 +1,9 @@
 ---
 title: MARKETTING
-subtitle: '_To start marketing your app, you should define your target audience._'
+subtitle: |-
+  ![](/images/mobile-app-marketing.jpg)
+
+  _To start marketing your app, you should define your target audience._
 background_style: style5
 menu:
   main:
