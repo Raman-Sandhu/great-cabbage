@@ -1,6 +1,6 @@
 ---
 title: 'Strategies '
-subtitle: __
+subtitle: _Three  Strategies_
 background_style: style5
 menu:
   main:
