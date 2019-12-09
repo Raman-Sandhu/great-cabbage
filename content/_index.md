@@ -104,11 +104,9 @@ sections:
         title: Tortor Ut
     section_id: three
     subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus ullamcorper.
-    title: Accumsan mus tortor nunc aliquet
+      My company will provide effective applications which are helpful to
+      product development.
+    title: Product Development
     type: features
   - actions:
       - is_primary: true
