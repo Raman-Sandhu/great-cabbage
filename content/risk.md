@@ -1,6 +1,6 @@
 ---
 title: RISK
-subtitle: "_Mobile application specialist is a complex process that has many different risk but the major risks of my venture are_ \n\n_•\tTechnology Risk_\n\n_•\tMarket Risk_\n\n_•\tFinancial Risk_\n\n_•\tTeam Risk_\n\n_•\tGovernment Risk_"
+subtitle: "![](/images/risk.webp)\n\n_Mobile application specialist is a complex process that has many different risk but the major risks of my venture are_ \n\n_•\tTechnology Risk_\n\n_•\tMarket Risk_\n\n_•\tFinancial Risk_\n\n_•\tTeam Risk_\n\n_•\tGovernment Risk_"
 background_style: style5
 menu:
   main:
