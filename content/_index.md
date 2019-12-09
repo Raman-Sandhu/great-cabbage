@@ -33,14 +33,11 @@ sections:
         title: Dolor
     section_id: one
     subtitle: >-
-      Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-      eleifend  
-
-      fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-      ullamcorper.  
-    title: |-
-      Arcu aliquet vel lobortis ata nisl
-      eget augue amet aliquet nisl cep donec
+      The major mission of mobile application specialist is assist to customers
+      in case of any trouble regarding their applications to respond faster and
+      immediately to changing market dynamics and by giving best solution that
+      add more profit to a business.
+    title: MISSION
     type: icons
   - background_style: style2
     component: spotlights.html
