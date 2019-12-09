@@ -48,7 +48,7 @@ sections:
           Mobile Application code is bug-free and provide great value to all
           customers.
         title: Reliable Application
-      - home_img_path: images/pic03.jpg
+      - home_img_path: /images/mobilephoneapps.jpg
         text: >-
           User interface is an important part of every mobile application. It
           includes mobile application design, visual design, graphic design, and
