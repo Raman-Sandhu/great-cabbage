@@ -81,10 +81,8 @@ sections:
           such as cameras and alarms.
         title: Security Control
       - icon: fa-flag-o
-        text: >-
-          Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem
-          tincidunt nullam amet leo Aenean ligula consequat consequat.
-        title: Tortor Ut
+        text: ' My compant give some solutions online in detail which provide ease to customers to resolve their app problems.'
+        title: Online Solutions
     section_id: three
     subtitle: >-
       My company will provide effective applications which are helpful to
