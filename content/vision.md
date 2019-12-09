@@ -6,7 +6,8 @@ subtitle: >-
 background_style: style5
 menu:
   main:
-    weight: 2
+    name: VISION
+    weight: 1
 layout: page
 ---
 
