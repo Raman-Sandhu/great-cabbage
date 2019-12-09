@@ -45,11 +45,9 @@ sections:
     spotlights:
       - home_img_path: images/pic02.jpg
         text: >-
-          Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
-          imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
-        title: |-
-          Tortor dolore feugiat
-          elementum magna
+          Mobile Application code is bug-free and provide great value to all
+          customers.
+        title: Reliable Application
       - home_img_path: images/pic03.jpg
         text: >-
           Aliquam ut ex ut augue consectetur interdum. Donec hendrerit
