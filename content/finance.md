@@ -1,6 +1,9 @@
 ---
 title: FINANCE
 subtitle: >-
+  ![](/images/mobile-apps-for-finance-sector_orig.jpg)
+
+
   _To start my business, i will require $5,00,000 because i will have to manage
   various expenses._
 background_style: style5
