@@ -1,6 +1,9 @@
 ---
 title: VISION
 subtitle: >-
+  ![](/images/061510102347goals.jpg)
+
+
   _To serve valuable applications which will supportive to customers for
   handling their specialized issues that will inspire the notoriety of my
   association._
